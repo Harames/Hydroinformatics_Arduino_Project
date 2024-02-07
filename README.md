@@ -1,0 +1,1 @@
+Jupyter Notebook with code doing a short visualization of the data set included in the repository. Data was collected from an Arduino and consists of time since data collection in seconds, temperature in degrees Celcius, and relative humidity. Data started being collected February 5th, 2024 at 11:10PM MST.
