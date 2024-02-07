@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Visualization of Data Collected for Hydroinformatics 2024
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Matthew Harames
+repository-code: >-
+  https://github.com/Harames/Hydroinformatics_Arduino_Project
+abstract: >-
+  Jupyter Notebook holding the code used to visualize data
+  collected from an Arduino.
+license: GPL-3.0
